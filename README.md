@@ -3,7 +3,8 @@ Here's the README file for the Agriculture Tomato Plucker project:
 # Agriculture Tomato Plucker
 
 <p align="center">
-<img src="https://example.com/your-image-link.jpg" title="Agriculture Tomato Plucker" width="25%">
+<img src="![Uploading Screenshot (89).png…]()
+g" title="Agriculture Tomato Plucker" width="25%">
 </p>
 
 ### FUNCTIONALITIES
